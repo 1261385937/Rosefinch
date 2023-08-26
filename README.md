@@ -1,3 +1,4 @@
 # Rosefinch
-<img width="418" alt="1692980711569" src="https://github.com/1261385937/Rosefinch/assets/19810905/8c42872e-9231-4b7e-af4a-0fe295cee9a0">
+
+<img width="418" alt="1693020016948" src="https://github.com/1261385937/Rosefinch/assets/19810905/424b5077-70da-4813-ab0b-5eea44e020eb">
 
