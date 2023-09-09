@@ -10,7 +10,7 @@ Begin do it.
 
 ## Raft consensus algorithm
 
-## Interaction Api
+## Interaction api
 Http && Grpc
 
 ## KV storage
